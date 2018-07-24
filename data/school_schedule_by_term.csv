@@ -1,0 +1,14 @@
+Course Abbr,S/T,Course Title,Cr(US),Cr(ECTS),"StartDate",End Date,Days,Time,Enr,Cap,Faculty,Room
+BIOL 101,1L,"Biology fornon-Sciencemajors",3.0,6,13-AUG-18,23-NOV-18,M W F,10:00 AM-10:50 AM,0,192,"AnaraZhumadilova,Otilia Nuta","GreenHall -cap:239"
+BIOL 110,2BLb,"Modern Biology Iwith Lab",4.0,8,13-AUG-18,23-NOV-18,M,12:00 PM-02:50 PM,0,24,TBA TBA,"9.228 -cap:40"
+BIOL 110,3BLb,"Modern Biology Iwith Lab",4.0,8,13-AUG-18,23-NOV-18,F,12:00 PM-02:50 PM,0,24,TBA TBA,"9.228 -cap:40"
+BIOL 110,5BLb,"Modern Biology Iwith Lab",4.0,8,13-AUG-18,23-NOV-18,F,03:00 PM-05:50 PM,0,24,TBA TBA,"9.228 -cap:40"
+BIOL 110,1BLb,"Modern Biology Iwith Lab",4.0,8,13-AUG-18,23-NOV-18,M,12:00 PM-02:50 PM,0,24,"ZarinaSautbayeva","7.407 -cap:20"
+BIOL 110,4BLb,"Modern Biology Iwith Lab",4.0,8,13-AUG-18,23-NOV-18,F,03:00 PM-05:50 PM,0,24,"ZarinaSautbayeva","7.407 -cap:20"
+BIOL 110,6BLb,"Modern Biology Iwith Lab **Hidden section",4.0,8,13-AUG-18,23-NOV-18,F,12:00 PM-02:50 PM,0,24,TBA TBA,"7.407 -cap:20"
+BIOL 110,1L,"Modern Biology Iwith Lab",4.0,8,13-AUG-18,23-NOV-18,T R,10:30 AM-11:45 AM,0,192,"TBA TBA, OlenaFilchakova, AnnaAndreeva","GreenHall -cap:239"
+BIOL 230,1L,"Human Anatomyand Physiology I",4.0,8,13-AUG-18,23-NOV-18,M W F,11:00 AM-11:50 AM,0,120,Tursonjan Tokay,"GreenHall -cap:239"
+BIOL 230,1Lb,"Human Anatomyand Physiology I",4.0,8,13-AUG-18,23-NOV-18,M,01:00 PM-03:50 PM,0,20,Tursonjan Tokay,"7E.217- cap:24"
+BIOL 230,2Lb,"Human Anatomyand Physiology I",4.0,8,13-AUG-18,23-NOV-18,W,01:00 PM-03:50 PM,0,20,Tursonjan Tokay,"7E.217- cap:24"
+BIOL 230,3Lb,"Human Anatomyand Physiology I",4.0,8,13-AUG-18,23-NOV-18,F,01:00 PM-03:50 PM,0,20,Tursonjan Tokay,"7E.217- cap:24"
+BIOL 230,4Lb,"Human Anatomyand Physiology I",4.0,8,13-AUG-18,23-NOV-18,M,01:00 PM-03:50 PM,0,20,"AnaraZhumadilova","7E.229- cap:24"

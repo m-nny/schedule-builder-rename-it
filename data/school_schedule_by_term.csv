@@ -12,3 +12,232 @@ BIOL 230,1Lb,"Human Anatomyand Physiology I",4.0,8,13-AUG-18,23-NOV-18,M,01:00 
 BIOL 230,2Lb,"Human Anatomyand Physiology I",4.0,8,13-AUG-18,23-NOV-18,W,01:00 PM-03:50 PM,0,20,Tursonjan Tokay,"7E.217- cap:24"
 BIOL 230,3Lb,"Human Anatomyand Physiology I",4.0,8,13-AUG-18,23-NOV-18,F,01:00 PM-03:50 PM,0,20,Tursonjan Tokay,"7E.217- cap:24"
 BIOL 230,4Lb,"Human Anatomyand Physiology I",4.0,8,13-AUG-18,23-NOV-18,M,01:00 PM-03:50 PM,0,20,"AnaraZhumadilova","7E.229- cap:24"
+BIOL 230,5Lb,"Human Anatomyand Physiology I",4.0,8,13-AUG-18,23-NOV-18,W,01:00 PM-03:50 PM,0,20,"AnaraZhumadilova","7E.229- cap:24"
+BIOL 230,6Lb,"Human Anatomyand Physiology I",4.0,8,13-AUG-18,23-NOV-18,F,01:00 PM-03:50 PM,0,20,"AnaraZhumadilova","7E.229- cap:24"
+BIOL 305,2Lb,"Introduction toMicrobiologywith Lab",4.0,8,13-AUG-18,23-NOV-18,T,03:00 PM-05:50 PM,0,16,TBA TBA,"9.228 -cap:40"
+BIOL 305,4Lb,"Introduction toMicrobiologywith Lab",4.0,8,13-AUG-18,23-NOV-18,W,12:00 PM-02:50 PM,0,16,TBA TBA,"9.228 -cap:40"
+BIOL 305,6Lb,"Introduction toMicrobiologywith Lab **Hidden section",4.0,8,13-AUG-18,23-NOV-18,W,04:00 PM-06:50 PM,0,16,TBA TBA,"9.228 -cap:40"
+BIOL 305,1L,"Introduction toMicrobiologywith Lab",4.0,8,13-AUG-18,23-NOV-18,T R,12:00 PM-01:15 PM,0,48,Damira Kanayeva,"7.507 -cap:60"
+BIOL 305,2L,"Introduction toMicrobiologywith Lab",4.0,8,13-AUG-18,23-NOV-18,T R,03:00 PM-04:15 PM,0,48,"ZhanatMuminova","7.507 -cap:60"
+BIOL 305,1Lb,"Introduction toMicrobiologywith Lab",4.0,8,13-AUG-18,23-NOV-18,T,03:00 PM-05:50 PM,0,16,"AssemDuisembekova","7.407 -cap:20"
+BIOL 305,3Lb,"Introduction toMicrobiologywith Lab",4.0,8,13-AUG-18,23-NOV-18,W,12:00 PM-02:50 PM,0,16,"AssemDuisembekova","7.407 -cap:20"
+BIOL 305,5Lb,"Introduction toMicrobiologywith Lab",4.0,8,13-AUG-18,23-NOV-18,W,04:00 PM-06:50 PM,0,16,"AssemDuisembekova","7.407 -cap:20"
+BIOL 320,1L,"DevelopmentalBiology",3.0,6,13-AUG-18,23-NOV-18,T R,09:00 AM-10:15 AM,0,48,"ZhanatMuminova","7.507 -cap:60"
+BIOL 340,1L,"Introduction toBioinformaticswith Lab",4.0,8,13-AUG-18,23-NOV-18,T R,10:30 AM-11:45 AM,0,28,"ChristianSchoenbach","7.507 -cap:60"
+BIOL 340,1Lb,"Introduction toBioinformaticswith Lab",4.0,8,13-AUG-18,23-NOV-18,W,04:00 PM-05:50 PM,0,28,"ChristianSchoenbach","7E.229- cap:24"
+BIOL 352,1L,Biology of Cancer,3.0,6,13-AUG-18,23-NOV-18,T R,04:30 PM-05:45 PM,0,48,"Jeanette KunzHalder","7E.222- cap:96"
+BIOL 355,1L,"Critical ResearchReasoning",3.0,6,13-AUG-18,23-NOV-18,M W F,10:00 AM-10:50 AM,0,32,yingqiu Xie,"7.507 -cap:60"
+BIOL 355,2L,"Critical ResearchReasoning",3.0,6,13-AUG-18,23-NOV-18,M W F,12:00 PM-12:50 PM,0,32,Olena Filchakova,"7.507 -cap:60"
+BIOL 355,3L,"Critical ResearchReasoning",3.0,6,13-AUG-18,23-NOV-18,M W F,03:00 PM-03:50 PM,0,32,Otilia Nuta,"7.507 -cap:60"
+BIOL 410,1L,"Introduction toImmunology",3.0,6,13-AUG-18,23-NOV-18,M W F,11:00 AM-11:50 AM,0,60,Timo Burster,"7.507 -cap:60"
+BIOL 455,1L,Biotechnology,3.0,6,13-AUG-18,23-NOV-18,T R,01:30 PM-02:45 PM,0,48,"ErlanRamankulov","7.507 -cap:60"
+BIOL 470,1L,"Advanced CellBiology",3.0,6,13-AUG-18,23-NOV-18,M W F,02:00 PM-02:50 PM,0,48,Ivan Vorobyev,"7.507 -cap:60"
+BIOL 490,1BLb,"Senior HonorsThesis",4.0,8,13-AUG-18,23-NOV-18,S,10:00 AM-11:50 AM,0,16,"ZhanatMuminova","7.507 -cap:60"
+BIOL 490,2BLb,"Senior HonorsThesis",4.0,8,13-AUG-18,23-NOV-18,S,01:00 PM-02:50 PM,0,16,yingqiu Xie,"7.507 -cap:60"
+BIOL 492,1Wsh,"Directed study inBiology",3.0,6,13-AUG-18,23-NOV-18,S,03:00 PM-04:50 PM,0,16,Ivan Vorobyev,"7.507 -cap:60"
+CHEM 090,1L,"Chemistry forNon-Sciencemajors",3.0,6,13-AUG-18,23-NOV-18,M W,03:00 PM-03:50 PM,0,24,TBA TBA,"7.527 -cap:28"
+CHEM 090,1ChLb,"Chemistry forNon-Sciencemajors",3.0,6,13-AUG-18,23-NOV-18,F,03:00 PM-05:50 PM,0,24,TBA TBA,"7.307 -cap:15"
+CHEM 091,1L,"Survey ofPhysical Science",3.0,6,13-AUG-18,23-NOV-18,T R,01:30 PM-02:45 PM,0,72,TBA TBA,"7E.222- cap:96"
+CHEM 101,1L,"GeneralChemistry I",3.0,6,13-AUG-18,23-NOV-18,T R,01:30 PM-02:45 PM,0,162,TBA TBA,"GreenHall -cap:239"
+CHEM 101L,1ChLb,"GeneralChemistry I lab",1.0,2,13-AUG-18,23-NOV-18,M,09:00 AM-11:50 AM,0,24,TBA TBA,"9.210 -cap:40"
+CHEM 101L,2ChLb,"GeneralChemistry I lab",1.0,2,13-AUG-18,23-NOV-18,W,09:00 AM-11:50 AM,0,24,TBA TBA,"9.210 -cap:40"
+CHEM 101L,3ChLb,"GeneralChemistry I lab",1.0,2,13-AUG-18,23-NOV-18,W,12:00 PM-02:50 PM,0,24,TBA TBA,"9.210 -cap:40"
+CHEM 101L,4ChLb,"GeneralChemistry I lab",1.0,2,13-AUG-18,23-NOV-18,W,03:00 PM-05:50 PM,0,24,TBA TBA,"9.210 -cap:40"
+CHEM 101L,5ChLb,"GeneralChemistry I lab",1.0,2,13-AUG-18,23-NOV-18,F,12:00 PM-02:50 PM,0,24,TBA TBA,"9.210 -cap:40"
+CHEM 101L,6ChLb,"GeneralChemistry I lab",1.0,2,13-AUG-18,23-NOV-18,S,12:00 PM-02:50 PM,0,24,TBA TBA,"9.210 -cap:40"
+CHEM 211,1L,"OrganicChemistry I",3.0,6,13-AUG-18,23-NOV-18,T R,09:00 AM-10:15 AM,0,72,TBA TBA,"7.105 -cap:80"
+CHEM 211L,1Lb,"OrganicChemistry I Lab",2.0,4,13-AUG-18,23-NOV-18,M,02:00 PM-06:50 PM,0,24,TBA TBA,"7.307 -cap:15"
+CHEM 211L,2Lb,"OrganicChemistry I Lab",2.0,4,13-AUG-18,23-NOV-18,T,02:00 PM-06:50 PM,0,24,TBA TBA,"7.307 -cap:15"
+CHEM 211L,3Lb,"OrganicChemistry I Lab",2.0,4,13-AUG-18,23-NOV-18,R,02:00 PM-06:50 PM,0,24,TBA TBA,"7.307 -cap:15"
+CHEM 212,1L,"OrganicChemistry II",3.0,6,13-AUG-18,23-NOV-18,T R,10:30 AM-11:45 AM,0,24,TBA TBA,"7.105 -cap:80"
+CHEM 220,1L,"QuantitativeChemicalAnalysis with lab",4.0,8,13-AUG-18,23-NOV-18,T R,12:00 PM-01:15 PM,0,24,TBA TBA,"7.105 -cap:80"
+CHEM 220,1ChLb,"QuantitativeChemicalAnalysis with lab",4.0,8,13-AUG-18,23-NOV-18,W,02:00 PM-04:50 PM,0,24,TBA TBA,"7.310 -cap:15"
+CHEM 331,1L,"PhysicalChemistry I",3.0,6,13-AUG-18,23-NOV-18,M W F,10:00 AM-10:50 AM,0,24,TBA TBA,"7.427 -cap:24"
+CHEM 331L,1ChLb,"PhysicalChemistry Lab",1.0,2,13-AUG-18,23-NOV-18,M,02:00 PM-04:50 PM,0,24,TBA TBA,"7.310 -cap:15"
+CHEM 341,1L,Biochemistry I,3.0,6,13-AUG-18,23-NOV-18,M W F,01:00 PM-01:50 PM,0,24,TBA TBA,"7.427 -cap:24"
+CHEM 341L,1ChLb,"Biochemistry ILab",1.0,2,13-AUG-18,23-NOV-18,R,03:00 PM-05:50 PM,0,24,TBA TBA,"7.407 -cap:20"
+CHEM 350,1L,"DescriptiveInorganicChemistry",3.0,6,13-AUG-18,23-NOV-18,M W F,12:00 PM-12:50 PM,0,24,TBA TBA,"7.427 -cap:24"
+CHEM 400,1S,"ChemistrySeminar",3.0,6,13-AUG-18,23-NOV-18,T R,10:30 AM-11:45 AM,0,26,TBA TBA,"7.317 -cap:25"
+CHEM 410,1L,"StructuralSpectroscopy",4.0,8,13-AUG-18,23-NOV-18,M W F,11:00 AM-11:50 AM,0,24,TBA TBA,"7.427 -cap:24"
+CHEM 450,1L,"AdvancedInorganicChemistry",4.0,8,13-AUG-18,23-NOV-18,M W F,02:00 PM-02:50 PM,0,24,TBA TBA,"7.527 -cap:28"
+CHEM 450,1ChLb,"AdvancedInorganicChemistry",4.0,8,13-AUG-18,23-NOV-18,R,01:30 PM-04:15 PM,0,24,TBA TBA,"7.310 -cap:15"
+CHEM 471,1L,"EnvironmentalChemistry",3.0,6,13-AUG-18,23-NOV-18,T R,01:30 PM-02:45 PM,0,48,TBA TBA,"7.105 -cap:80"
+CSCI 151,1CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,M,09:00 AM-10:50 AM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,2CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,M,11:00 AM-12:50 PM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,3CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,M,01:00 PM-02:50 PM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,4CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,M,03:00 PM-04:50 PM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,5CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,W,09:00 AM-10:50 AM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,6CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,W,11:00 AM-12:50 PM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,7CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,W,01:00 PM-02:50 PM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,8CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,W,03:00 PM-04:50 PM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,9CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,F,09:00 AM-10:50 AM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,10CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,F,11:00 AM-12:50 PM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,11CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,T,09:00 AM-10:30 AM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,12CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,T,10:30 AM-11:45 AM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,13CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,T,01:30 PM-02:45 PM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,14CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,R,09:00 AM-10:15 AM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,15CLb,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,R,01:30 PM-02:50 PM,0,24,TBA TBA,"7.522 -cap:28"
+CSCI 151,2L,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,T R,09:00 AM-10:15 AM,0,180,Ben Tyler,"GreenHall -cap:239"
+CSCI 151,3L,"Programming forScientists andEngineers",4.0,8,13-AUG-18,23-NOV-18,T R,03:00 PM-04:15 PM,0,180,Ben Tyler,"GreenHall -cap:239"
+CSCI 231,1Lb,"ComputerSystems andOrganization",3.0,6,13-AUG-18,23-NOV-18,F,01:00 PM-01:50 PM,0,30,TBA TBA,"7.522 -cap:28"
+CSCI 231,2Lb,"ComputerSystems andOrganization",3.0,6,13-AUG-18,23-NOV-18,F,02:00 PM-02:50 PM,0,30,TBA TBA,"7.522 -cap:28"
+CSCI 231,3Lb,"ComputerSystems andOrganization",3.0,6,13-AUG-18,23-NOV-18,F,03:00 PM-03:50 PM,0,30,TBA TBA,"7.522 -cap:28"
+CSCI 231,1L,"ComputerSystems andOrganization",3.0,6,13-AUG-18,23-NOV-18,M W,01:00 PM-01:50 PM,0,90,TBA TBA,"GreenHall -cap:239"
+CSCI 235,1Lb,"ProgrammingLanguages",4.0,8,13-AUG-18,23-NOV-18,M,09:00 AM-10:50 AM,0,28,TBA TBA,"7.422 -cap:25"
+CSCI 235,2Lb,"ProgrammingLanguages",4.0,8,13-AUG-18,23-NOV-18,M,11:00 AM-12:50 PM,0,28,TBA TBA,"7.422 -cap:25"
+CSCI 235,3Lb,"ProgrammingLanguages",4.0,8,13-AUG-18,23-NOV-18,M,03:00 PM-04:50 PM,0,28,TBA TBA,"7.422 -cap:25"
+CSCI 235,4Lb,"ProgrammingLanguages",4.0,8,13-AUG-18,23-NOV-18,W,09:00 AM-10:50 AM,0,28,TBA TBA,"7.422 -cap:25"
+CSCI 235,5Lb,"ProgrammingLanguages",4.0,8,13-AUG-18,23-NOV-18,W,11:00 AM-12:50 PM,0,28,TBA TBA,"7.422 -cap:25"
+CSCI 235,6Lb,"ProgrammingLanguages",4.0,8,13-AUG-18,23-NOV-18,W,03:00 PM-04:50 PM,0,28,TBA TBA,"7.422 -cap:25"
+CSCI 235,1L,"ProgrammingLanguages",4.0,8,13-AUG-18,23-NOV-18,T R,12:00 PM-01:15 PM,0,168,"Jean MarieGuillaumeGerard deNivelle","GreenHall -cap:239"
+CSCI 262,1L,"Software ProjectManagement",3.0,6,13-AUG-18,23-NOV-18,T R,12:00 PM-01:15 PM,0,26,"AskarBoranbayev","7.422 -cap:25"
+CSCI 281,1L,"Human-ComputerInteraction",3.0,6,13-AUG-18,23-NOV-18,T R,10:30 AM-11:45 AM,0,26,Antonio Cerone,"7.422 -cap:25"
+CSCI 344,1L,"Data Mining andDecision Support",3.0,6,13-AUG-18,23-NOV-18,T R,01:30 PM-02:45 PM,0,26,Mark Sterling,"7.422 -cap:25"
+CSCI 361,1Lb,"SoftwareEngineering",3.0,6,13-AUG-18,23-NOV-18,F,02:00 PM-02:50 PM,0,26,TBA TBA,"7.422 -cap:25"
+CSCI 361,2Lb,"SoftwareEngineering",3.0,6,13-AUG-18,23-NOV-18,F,03:00 PM-03:50 PM,0,26,TBA TBA,"7.422 -cap:25"
+CSCI 361,3Lb,"SoftwareEngineering",3.0,6,13-AUG-18,23-NOV-18,F,04:00 PM-04:50 PM,0,26,TBA TBA,"7.422 -cap:25"
+CSCI 361,1L,"SoftwareEngineering",3.0,6,13-AUG-18,23-NOV-18,M W,02:00 PM-02:50 PM,0,78,"AskarBoranbayev,Mark Sterling","7E.222- cap:96"
+CSCI 390,1L,"ArtificialIntelligence",3.0,6,13-AUG-18,23-NOV-18,T R,10:30 AM-11:45 AM,0,78,Martin Lukac,"7E.222- cap:96"
+CSCI 408,1L,Senior Project I,3.0,6,13-AUG-18,23-NOV-18,F,12:00 PM-12:50 PM,0,55,TBA TBA,"7.105 -cap:80"
+CSCI 434,1L,"InformationSecurity",3.0,6,13-AUG-18,23-NOV-18,T R,09:00 AM-10:30 AM,0,26,Michael Lewis,"7.422 -cap:25"
+CSCI 471,1L,"Complexity andComputability",3.0,6,13-AUG-18,23-NOV-18,M W F,04:00 PM-04:50 PM,0,55,"Ben Tyler, SainSaginbekov","7E.222- cap:96"
+CSCI 494,1L,Deep Learning,3.0,6,13-AUG-18,23-NOV-18,M W,12:00 PM-12:50 PM,0,52,"TBA TBA, AdnanYazici","7.105 -cap:80"
+CSCI 494,1Lb,Deep Learning,3.0,6,13-AUG-18,23-NOV-18,F,12:00 PM-12:50 PM,0,26,TBA TBA,"7.422 -cap:25"
+CSCI 494,2Lb,Deep Learning,3.0,6,13-AUG-18,23-NOV-18,F,01:00 PM-01:50 PM,0,26,TBA TBA,"7.422 -cap:25"
+MATH 109,1L,"MathematicalDiscovery",3.0,6,13-AUG-18,23-NOV-18,M W F,10:00 AM-10:50 AM,0,72,TBA TBA,"7E.222- cap:96"
+MATH 109,2L,"MathematicalDiscovery",3.0,6,13-AUG-18,23-NOV-18,M W F,01:00 PM-01:50 PM,0,72,TBA TBA,"7E.222- cap:96"
+MATH 161,1R,Calculus I,4.0,8,13-AUG-18,23-NOV-18,T,12:00 PM-01:15 PM,0,48,TBA TBA,"7.210 -cap:55"
+MATH 161,2R,Calculus I,4.0,8,13-AUG-18,23-NOV-18,T,01:30 PM-02:45 PM,0,48,TBA TBA,"7.210 -cap:55"
+MATH 161,3R,Calculus I,4.0,8,13-AUG-18,23-NOV-18,R,12:00 PM-01:15 PM,0,48,TBA TBA,"7.210 -cap:55"
+MATH 161,9L,Calculus I,4.0,8,13-AUG-18,23-NOV-18,M W F,12:00 PM-12:50 PM,0,48,TBA TBA,"7.210 -cap:55"
+MATH 161,10L,Calculus I,4.0,8,13-AUG-18,23-NOV-18,M W F,03:00 PM-03:50 PM,0,48,TBA TBA,"7.210 -cap:55"
+MATH 161,11L,Calculus I,4.0,8,13-AUG-18,23-NOV-18,M W F,04:00 PM-04:50 PM,0,48,TBA TBA,"7.210 -cap:55"
+MATH 161,1L,Calculus I,4.0,8,13-AUG-18,23-NOV-18,M W F,09:00 AM-09:50 AM,0,48,Francesco Sica,"7.246 -cap:55"
+MATH 161,2L,Calculus I,4.0,8,13-AUG-18,23-NOV-18,M W F,10:00 AM-10:50 AM,0,48,"BibinurShupeyeva","7.246 -cap:55"
+MATH 161,3L,Calculus I,4.0,8,13-AUG-18,23-NOV-18,M W F,11:00 AM-11:50 AM,0,48,TBA TBA,"7.246 -cap:55"
+MATH 161,4L,Calculus I,4.0,8,13-AUG-18,23-NOV-18,M W F,12:00 PM-12:50 PM,0,48,"RaushanZhumanova","7.246 -cap:55"
+MATH 161,4R,Calculus I,4.0,8,13-AUG-18,23-NOV-18,T,09:00 AM-10:15 AM,0,48,TBA TBA,"7.246 -cap:55"
+MATH 161,5L,Calculus I,4.0,8,13-AUG-18,23-NOV-18,M W F,01:00 PM-01:50 PM,0,48,TBA TBA,"7.246 -cap:55"
+MATH 161,5R,Calculus I,4.0,8,13-AUG-18,23-NOV-18,T,10:30 AM-11:45 AM,0,48,TBA TBA,"7.246 -cap:55"
+MATH 161,6L,Calculus I,4.0,8,13-AUG-18,23-NOV-18,M W F,02:00 PM-02:50 PM,0,48,"Daniel OliveiraDa Silva","7.246 -cap:55"
+MATH 161,6R,Calculus I,4.0,8,13-AUG-18,23-NOV-18,T,12:00 PM-01:15 PM,0,48,TBA TBA,"7.246 -cap:55"
+MATH 161,7L,Calculus I,4.0,8,13-AUG-18,23-NOV-18,M W F,03:00 PM-03:50 PM,0,48,"RaushanZhumanova","7.246 -cap:55"
+MATH 161,7R,Calculus I,4.0,8,13-AUG-18,23-NOV-18,T,01:30 PM-02:45 PM,0,48,TBA TBA,"7.246 -cap:55"
+MATH 161,8L,Calculus I,4.0,8,13-AUG-18,23-NOV-18,M W F,04:00 PM-04:50 PM,0,48,TBA TBA,"7.246 -cap:55"
+MATH 161,8R,Calculus I,4.0,8,13-AUG-18,23-NOV-18,R,09:00 AM-10:15 AM,0,48,TBA TBA,"7.246 -cap:55"
+MATH 161,9R,Calculus I,4.0,8,13-AUG-18,23-NOV-18,R,10:30 AM-11:45 AM,0,48,TBA TBA,"7.246 -cap:55"
+MATH 161,10R,Calculus I,4.0,8,13-AUG-18,23-NOV-18,R,12:00 PM-01:15 PM,0,48,TBA TBA,"7.246 -cap:55"
+MATH 161,11R,Calculus I,4.0,8,13-AUG-18,23-NOV-18,R,01:30 PM-02:45 PM,0,48,TBA TBA,"7.246 -cap:55"
+MATH 162,1L,Calculus II,4.0,8,13-AUG-18,23-NOV-18,T R,03:00 PM-04:15 PM,0,48,"Alejandro JavierCastro Castilla","7.210 -cap:55"
+MATH 162,2L,Calculus II,4.0,8,13-AUG-18,23-NOV-18,T R,04:30 PM-05:45 PM,0,48,"DurvudkhanSuragan","7.210 -cap:55"
+MATH 162,1R,Calculus II,4.0,8,13-AUG-18,23-NOV-18,W,01:00 PM-01:50 PM,0,24,TBA TBA,"7.517 -cap:28"
+MATH 162,2R,Calculus II,4.0,8,13-AUG-18,23-NOV-18,W,02:00 PM-02:50 PM,0,24,TBA TBA,"7.517 -cap:28"
+MATH 162,3R,Calculus II,4.0,8,13-AUG-18,23-NOV-18,F,03:00 PM-03:50 PM,0,24,TBA TBA,"7.517 -cap:28"
+MATH 162,4R,Calculus II,4.0,8,13-AUG-18,23-NOV-18,F,04:00 PM-04:50 PM,0,24,TBA TBA,"7.517 -cap:28"
+MATH 251,1L,"DiscreteMathematics",3.0,6,13-AUG-18,23-NOV-18,T R,09:00 AM-10:15 AM,0,48,Francesco Sica,"7E.220- cap:48"
+MATH 251,2L,"DiscreteMathematics",3.0,6,13-AUG-18,23-NOV-18,T R,10:30 AM-11:45 AM,0,48,Francesco Sica,"7E.220- cap:48"
+MATH 251,3L,"DiscreteMathematics",3.0,6,13-AUG-18,23-NOV-18,T R,03:00 PM-04:15 PM,0,48,Manat Mustafa,"7E.220- cap:48"
+MATH 263,1R,Calculus III,4.0,8,13-AUG-18,23-NOV-18,T,01:30 PM-02:45 PM,0,24,TBA TBA,"7.517 -cap:28"
+MATH 263,2R,Calculus III,4.0,8,13-AUG-18,23-NOV-18,T,03:00 PM-04:15 PM,0,24,TBA TBA,"7.517 -cap:28"
+MATH 263,3R,Calculus III,4.0,8,13-AUG-18,23-NOV-18,T,04:30 PM-05:45 PM,0,24,TBA TBA,"7.517 -cap:28"
+MATH 263,4R,Calculus III,4.0,8,13-AUG-18,23-NOV-18,R,01:30 PM-02:45 PM,0,24,TBA TBA,"7.517 -cap:28"
+MATH 263,5R,Calculus III,4.0,8,13-AUG-18,23-NOV-18,R,03:00 PM-04:15 PM,0,24,TBA TBA,"7.517 -cap:28"
+MATH 263,6R,Calculus III,4.0,8,13-AUG-18,23-NOV-18,R,04:30 PM-05:45 PM,0,24,TBA TBA,"7.517 -cap:28"
+MATH 263,1L,Calculus III,4.0,8,13-AUG-18,23-NOV-18,M W F,10:00 AM-10:50 AM,0,48,Yogi Erlangga,"7E.220- cap:48"
+MATH 263,2L,Calculus III,4.0,8,13-AUG-18,23-NOV-18,M W F,01:00 PM-01:50 PM,0,48,"BibinurShupeyeva","7E.220- cap:48"
+MATH 263,3L,Calculus III,4.0,8,13-AUG-18,23-NOV-18,M W F,04:00 PM-04:50 PM,0,48,"RustemTakhanov","7E.220- cap:48"
+MATH 273,1L,"Linear Algebrawith Applications",4.0,8,13-AUG-18,23-NOV-18,M W F,09:00 AM-09:50 AM,0,48,"ArdakKashkynbayev","7E.220- cap:48"
+MATH 273,1R,"Linear Algebrawith Applications",4.0,8,13-AUG-18,23-NOV-18,T,01:30 PM-02:45 PM,0,48,TBA TBA,"7E.220- cap:48"
+MATH 273,2L,"Linear Algebrawith Applications",4.0,8,13-AUG-18,23-NOV-18,M W F,12:00 PM-12:50 PM,0,48,"RustemTakhanov","7E.220- cap:48"
+MATH 273,2R,"Linear Algebrawith Applications",4.0,8,13-AUG-18,23-NOV-18,W,06:00 PM-06:50 PM,0,48,TBA TBA,"7E.220- cap:48"
+MATH 273,3L,"Linear Algebrawith Applications",4.0,8,13-AUG-18,23-NOV-18,M W F,03:00 PM-03:50 PM,0,48,"ZhibekKadyrsizova","7E.220- cap:48"
+MATH 273,3R,"Linear Algebrawith Applications",4.0,8,13-AUG-18,23-NOV-18,R,01:30 PM-02:45 PM,0,48,TBA TBA,"7E.220- cap:48"
+MATH 274,1L,"Introduction toDifferentialEquations",3.0,6,13-AUG-18,23-NOV-18,T R,12:00 PM-01:15 PM,0,48,"DurvudkhanSuragan","7E.221- cap:48"
+MATH 274,2L,"Introduction toDifferentialEquations",3.0,6,13-AUG-18,23-NOV-18,T R,01:30 PM-02:45 PM,0,48,"BibinurShupeyeva","7E.221- cap:48"
+MATH 310,1L,"AppliedStatisticalMethods",3.0,6,13-AUG-18,23-NOV-18,T R,12:00 PM-01:15 PM,0,48,Dongming Wei,"7E.220- cap:48"
+MATH 310,2L,"AppliedStatisticalMethods",3.0,6,13-AUG-18,23-NOV-18,T R,04:30 PM-05:45 PM,0,48,TBA TBA,"7E.220- cap:48"
+MATH 321,1L,Probability,3.0,6,13-AUG-18,23-NOV-18,M W F,11:00 AM-11:50 AM,0,72,Eunghyun Lee,"7E.222- cap:96"
+MATH 321,2L,Probability,3.0,6,13-AUG-18,23-NOV-18,M W F,05:00 PM-05:50 PM,0,72,Mark Lawrence,"7E.222- cap:96"
+MATH 323,1L,"ActuarialMathematics I",3.0,6,13-AUG-18,23-NOV-18,T R,09:00 AM-10:15 AM,0,48,"RaushanZhumanova","7E.222- cap:96"
+MATH 351,1L,"NumericalMethods withApplications",3.0,6,13-AUG-18,23-NOV-18,M W F,03:00 PM-03:50 PM,0,35,"Piotr SebastianSkrzypacz","7E.221- cap:48"
+MATH 361,1L,Real Analysis I,3.0,6,13-AUG-18,23-NOV-18,M W F,10:00 AM-10:50 AM,0,36,Mark Lawrence,"7E.221- cap:48"
+MATH 361,2L,Real Analysis I,3.0,6,13-AUG-18,23-NOV-18,M W F,01:00 PM-01:50 PM,0,36,Manat Mustafa,"7E.221- cap:48"
+MATH 425,1L,"StochasticProcesses",3.0,6,13-AUG-18,23-NOV-18,M W F,02:00 PM-02:50 PM,0,36,Eunghyun Lee,"7E.221- cap:48"
+MATH 441,1L,"Design ofExperiments",3.0,6,13-AUG-18,23-NOV-18,T R,03:00 PM-04:15 PM,0,36,"ZhenisbekAssylbekov","7E.221- cap:48"
+MATH 471,1L,"NonlinearDifferentialEquations",3.0,6,13-AUG-18,23-NOV-18,M W F,11:00 AM-11:50 AM,0,36,"ArdakKashkynbayev","7E.221- cap:48"
+MATH 480,1L,Complex Analysis,3.0,6,13-AUG-18,23-NOV-18,T R,10:30 AM-11:45 AM,0,36,"AnastasiosBountis","7E.221- cap:48"
+MATH 481,1L,"PartialDifferentialEquations",3.0,6,13-AUG-18,23-NOV-18,M W F,04:00 PM-04:50 PM,0,36,"Daniel OliveiraDa Silva","7E.221- cap:48"
+PHYS 161,10R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M,11:00 AM-11:50 AM,0,24,"DanieleMalafarina","7.317 -cap:25"
+PHYS 161,11R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M,02:00 PM-02:50 PM,0,24,"Michael RobertRogers Good","7.317 -cap:25"
+PHYS 161,12R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M,03:00 PM-03:50 PM,0,24,"AntonDesyatnikov","7.317 -cap:25"
+PHYS 161,13R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,W,11:00 AM-11:50 AM,0,24,"DanieleMalafarina","7.317 -cap:25"
+PHYS 161,14R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,W,02:00 PM-02:50 PM,0,24,"Michael RobertRogers Good","7.317 -cap:25"
+PHYS 161,15R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,W,03:00 PM-03:50 PM,0,24,"AntonDesyatnikov","7.317 -cap:25"
+PHYS 161,16R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,F,11:00 AM-11:50 AM,0,24,"AlexanderTikhonov","7.317 -cap:25"
+PHYS 161,17R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,F,02:00 PM-02:50 PM,0,24,"AlexanderTikhonov","7.317 -cap:25"
+PHYS 161,18R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,F,03:00 PM-03:50 PM,0,24,"KonstantinosValagiannopoulos","7.317 -cap:25"
+PHYS 161,1R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M,10:00 AM-10:50 AM,0,28,"ErnazarAbdikamalov","7.527 -cap:28"
+PHYS 161,2R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M,01:00 PM-01:50 PM,0,28,TBA TBA,"7.527 -cap:28"
+PHYS 161,3R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M,04:00 PM-04:50 PM,0,28,TBA TBA,"7.527 -cap:28"
+PHYS 161,4R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,W,10:00 AM-10:50 AM,0,28,Azat Abdullayev,"7.527 -cap:28"
+PHYS 161,5R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,W,01:00 PM-01:50 PM,0,28,TBA TBA,"7.527 -cap:28"
+PHYS 161,6R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,F,10:00 AM-10:50 AM,0,28,"ZhandosUtegulov","7.527 -cap:28"
+PHYS 161,7R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,W,04:00 PM-04:50 PM,0,28,TBA TBA,"7.527 -cap:28"
+PHYS 161,8R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,F,01:00 PM-01:50 PM,0,28,"AlexanderTikhonov","7.527 -cap:28"
+PHYS 161,9R,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,F,04:00 PM-04:50 PM,0,28,TBA TBA,"7.527 -cap:28"
+PHYS 161,1PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M,09:00 AM-11:50 AM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,2PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M,12:00 PM-02:50 PM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,3PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M,03:00 PM-05:50 PM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,4PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,W,09:00 AM-11:50 AM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,5PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,W,12:00 PM-02:50 PM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,6PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,W,03:00 PM-05:50 PM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,7PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,F,09:00 AM-11:50 AM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,8PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,F,12:00 PM-02:50 PM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,9PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,F,03:00 PM-05:50 PM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,10PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,T,09:00 AM-11:50 AM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,11PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,T,12:00 PM-02:50 PM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,12PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,T,03:00 PM-05:50 PM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,13PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,T,06:00 PM-08:50 PM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,14PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,R,09:00 AM-11:50 AM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,15PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,R,12:00 PM-02:50 PM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,16PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,R,03:00 PM-05:50 PM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,17PLb,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,R,06:00 PM-08:50 PM,0,28,"ThomasOikonomou","7.302 -cap:30"
+PHYS 161,1L,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M W F,09:00 AM-09:50 AM,0,84,"ErnazarAbdikamalov","7E.222- cap:96"
+PHYS 161,2L,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M W F,12:00 PM-12:50 PM,0,84,TBA TBA,"7E.222- cap:96"
+PHYS 161,3L,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M W F,03:00 PM-03:50 PM,0,84,TBA TBA,"7E.222- cap:96"
+PHYS 161,4L,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M W F,10:00 AM-10:50 AM,0,84,"ThomasOikonomou","7E.329- cap:96"
+PHYS 161,5L,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M W F,01:00 PM-01:50 PM,0,84,TBA TBA,"7E.329- cap:96"
+PHYS 161,6L,"Physics I forScientists andEngineers withLaboratory",4.0,8,13-AUG-18,23-NOV-18,M W F,04:00 PM-04:50 PM,0,84,TBA TBA,"7E.329- cap:96"
+PHYS 201,1L,"IntroductoryAstronomy I",3.0,6,13-AUG-18,23-NOV-18,M W F,09:00 AM-09:50 AM,0,150,"DanieleMalafarina","GreenHall -cap:239"
+PHYS 221,1L,"ClassicalMechanics I",3.0,6,13-AUG-18,23-NOV-18,T R,10:30 AM-11:45 AM,0,24,Vassilios Kovanis,"7.427 -cap:24"
+PHYS 221,1R,"ClassicalMechanics I",3.0,6,13-AUG-18,23-NOV-18,T,12:00 PM-01:15 PM,0,24,Vassilios Kovanis,"7.427 -cap:24"
+PHYS 261,1L,"Modern Physicswith laboratory",4.0,8,13-AUG-18,23-NOV-18,M W F,11:00 AM-11:50 AM,0,24,"ZhandosUtegulov","7.322 -cap:24"
+PHYS 261,1Lb,"Modern Physicswith laboratory",4.0,8,13-AUG-18,23-NOV-18,W,01:00 PM-02:50 PM,0,24,"ZhandosUtegulov","7.502 -cap:24"
+PHYS 315,1L,"MathematicalMethods ofPhysics",3.0,6,13-AUG-18,23-NOV-18,M W F,03:00 PM-03:50 PM,0,24,"AikateriniMandilara","7.427 -cap:24"
+PHYS 315,1R,"MathematicalMethods ofPhysics",3.0,6,13-AUG-18,23-NOV-18,M,04:00 PM-04:50 PM,0,24,"AikateriniMandilara","7.427 -cap:24"
+PHYS 361,1L,"ClassicalElectrodynamics I",3.0,6,13-AUG-18,23-NOV-18,M W F,02:00 PM-02:50 PM,0,24,"KonstantinosValagiannopoulos","7.427 -cap:24"
+PHYS 361,1R,"ClassicalElectrodynamics I",3.0,6,13-AUG-18,23-NOV-18,W,04:00 PM-04:50 PM,0,24,"KonstantinosValagiannopoulos","7.427 -cap:24"
+PHYS 452,1L,"QuantumMechanics II",3.0,6,13-AUG-18,23-NOV-18,T R,10:30 AM-11:45 AM,0,24,Sergiy Bubin,"7.527 -cap:28"
+PHYS 452,1R,"QuantumMechanics II",3.0,6,13-AUG-18,23-NOV-18,T,12:00 PM-01:15 PM,0,24,Sergiy Bubin,"7.527 -cap:28"
+PHYS 465,1PLb,"AdvancedExperimentalPhysics",3.0,6,13-AUG-18,23-NOV-18,T R,01:30 PM-02:45 PM,0,24,Azat Abdullayev,"7.502 -cap:24"
+PHYS 474,1L,"Lasers andPhotonics",3.0,6,13-AUG-18,23-NOV-18,T R,09:00 AM-10:15 AM,0,24,"Jean-JacquesZondy","7.527 -cap:28"
+ROBT 201,1L,"Mechanics:Statics andDynamics",3.0,6,13-AUG-18,23-NOV-18,M W F,09:00 AM-09:50 AM,0,40,Altay Zhakatayev,"7.210 -cap:55"
+ROBT 203,1L,"Electrical andElectronicCircuits I withLab",4.0,8,13-AUG-18,23-NOV-18,M W F,11:00 AM-11:50 AM,0,40,Ton Do Duc,"7.210 -cap:55"
+ROBT 203,1Lb,"Electrical andElectronicCircuits I withLab",4.0,8,13-AUG-18,23-NOV-18,M,12:00 PM-02:50 PM,0,20,"ZhanatKappassov","7.327 -cap:20"
+ROBT 203,2Lb,"Electrical andElectronicCircuits I withLab",4.0,8,13-AUG-18,23-NOV-18,M,03:00 PM-05:50 PM,0,20,"ZhanatKappassov","7.327 -cap:20"
+ROBT 205,1Lb,"Signals andSensing with Lab",4.0,8,13-AUG-18,23-NOV-18,W,12:00 PM-02:50 PM,0,20,"AnaraSandygulova","2.327 -cap:97"
+ROBT 205,1L,"Signals andSensing with Lab",4.0,8,13-AUG-18,23-NOV-18,T R,10:30 AM-11:45 AM,0,40,TBA TBA,"7.210 -cap:55"
+ROBT 205,2Lb,"Signals andSensing with Lab",4.0,8,13-AUG-18,23-NOV-18,W,03:00 PM-05:50 PM,0,20,"AnaraSandygulova","7.327 -cap:20"
+ROBT 301,1L,"MechanicalDesign I withCAD Laboratory",4.0,8,13-AUG-18,23-NOV-18,M W F,10:00 AM-10:50 AM,0,40,"MohamadMosadeghzad","7.210 -cap:55"
+ROBT 301,1Lb,"MechanicalDesign I withCAD Laboratory",4.0,8,13-AUG-18,23-NOV-18,T,01:00 PM-02:50 PM,0,14,Iliyas Tursynbek,"7.327 -cap:20"
+ROBT 301,2Lb,"MechanicalDesign I withCAD Laboratory",4.0,8,13-AUG-18,23-NOV-18,T,03:00 PM-04:50 PM,0,14,Iliyas Tursynbek,"7.327 -cap:20"
+ROBT 301,3Lb,"MechanicalDesign I withCAD Laboratory",4.0,8,13-AUG-18,23-NOV-18,R,03:00 PM-04:50 PM,0,14,Iliyas Tursynbek,"7.327 -cap:20"
+ROBT 303,1L,"Linear ControlTheory with Lab",4.0,8,13-AUG-18,23-NOV-18,T R,09:00 AM-10:15 AM,0,32,Tohid Alizadeh,"7.210 -cap:55"
+ROBT 303,1Lb,"Linear ControlTheory with Lab",4.0,8,13-AUG-18,23-NOV-18,F,12:00 PM-02:50 PM,0,16,"MohamadMosadeghzad","7.327 -cap:20"
+ROBT 303,2Lb,"Linear ControlTheory with Lab",4.0,8,13-AUG-18,23-NOV-18,F,03:00 PM-05:50 PM,0,16,"MohamadMosadeghzad","7.327 -cap:20"
+ROBT 305,1L,"EmbeddedSystems",3.0,6,13-AUG-18,23-NOV-18,T R,12:00 PM-01:15 PM,0,24,"AlmasShintemirov","7.322 -cap:24"
+ROBT 307,1L,"PowerElectronics",3.0,6,13-AUG-18,23-NOV-18,M W F,02:00 PM-02:50 PM,0,32,Ton Do Duc,"7.210 -cap:55"
+ROBT 308,1L,"IndustrialAutomation",3.0,6,13-AUG-18,23-NOV-18,T R,01:30 PM-02:45 PM,0,24,Tohid Alizadeh,"7.322 -cap:24"
+ROBT 401,1L,"Robot Dynamicsand Control",3.0,6,13-AUG-18,23-NOV-18,M W F,01:00 PM-01:50 PM,0,32,"MicheleFolgheraiter","7.210 -cap:55"
+ROBT 407,1L,"StatisticalMethods andMachineLearning",3.0,6,13-AUG-18,23-NOV-18,T R,10:30 AM-11:45 AM,0,32,"BerdakhAbibullaev","7.322 -cap:24"
+ROBT 414,1L,"Human-RobotInteraction",3.0,6,13-AUG-18,23-NOV-18,T R,09:00 AM-10:15 AM,0,24,"AnaraSandygulova","7.322 -cap:24"

@@ -7,7 +7,9 @@
     "csv-parse": "^2.5.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "react-treebeard": "^2.1.0",
+    "radium": "latest"
   },
   "devDependencies": {
     "gh-pages": "^1.2.0"
@@ -18,6 +20,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "parse": "node $NODE_DEBUG_OPTION src/parseCourse.js",
+    "postparse": "echo 'export default' | cat - data/school_schedule_by_term.json > src/utils/data.js ",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   }

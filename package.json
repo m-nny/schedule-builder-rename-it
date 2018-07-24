@@ -1,16 +1,24 @@
 {
   "name": "schedule-builder",
   "version": "0.0.1",
-  "description": "",
-  "main": "pasrseCourse.js",
-  "scripts": {
-    "parse": "node $NODE_DEBUG_OPTION src/parseCourse.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "private": true,
+  "homepage": "http://MannyFM.github.io/schedule-builder-rename-it",
   "dependencies": {
     "csv-parse": "^2.5.0",
-    "jquery": "^3.3.1"
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "parse": "node $NODE_DEBUG_OPTION src/parseCourse.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   }
 }

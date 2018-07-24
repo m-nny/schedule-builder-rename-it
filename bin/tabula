@@ -1,0 +1,3 @@
+#!/bin/sh
+
+java -jar tabula-1.0.2-jar-with-dependencies.jar $@
